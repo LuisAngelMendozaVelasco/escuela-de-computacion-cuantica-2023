@@ -26,6 +26,7 @@ def variational_circuit(params,hamiltonian):
     """
     parameters = params.reshape((LAYERS, WIRES, 3))
     qml.templates.StronglyEntanglingLayers(parameters, wires=range(WIRES))
+    
     return qml.expval(qml.Hermitian(hamiltonian, wires = [0,1]))
 
 def optimize_circuit(hamiltonian):
@@ -59,4 +60,3 @@ def optimize_circuit(hamiltonian):
     # Write your code to minimize the circuit
 
     return # Return the value of the minimized QNode
-

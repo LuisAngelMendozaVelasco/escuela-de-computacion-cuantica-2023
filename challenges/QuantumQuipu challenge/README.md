@@ -1,4 +1,5 @@
 # QuantumChallenge
+
 Reto para el Qiskit Fall Fest Latino, Escuela en Español de Computación Cuántica
 
 ### Reto: Decodificar y Clasificar
