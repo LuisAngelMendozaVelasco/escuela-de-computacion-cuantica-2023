@@ -37,7 +37,6 @@ Esta escuela brinda clases, conferencias y sesiones de programación detalladas 
 
 ### [Día 6](./dia06)
 - Quantum approximate optimization algorithm (QAOA)
-### Día 7
 
 ### [Día 8](./dia08)
 - Aprendizaje automático cuántico (Quantum machine learning, QML)
@@ -51,11 +50,11 @@ Esta escuela brinda clases, conferencias y sesiones de programación detalladas 
 - Contribución al Open Source
 
 ## [Ejercicios](./ejercicios)
-- Ejercicio 1: Circuitos Cuánticos [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S7x_zm6rB8okAu_AXt9QkTkrIHb5DiiE?usp=sharing)
-- Ejercicio 2: Qiskit Runtime
-- Ejercicio 3: Algoritmo de Shor
-- Ejercicio 4: Optimización [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S83es5-6FC7C2woXLR--lyqgq72hIlSL?usp=sharing)
-- Ejercicio 5: Química Cuántica
+- Ejercicio 1: Circuitos Cuánticos [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LuisAngelMendozaVelasco/escuela-de-computacion-cuantica-2023/blob/master/ejercicios/ejercicio1_circuitos_cuanticos.ipynb)
+- Ejercicio 2: Qiskit Runtime [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LuisAngelMendozaVelasco/escuela-de-computacion-cuantica-2023/blob/master/ejercicios/ejercicio2_qiskit_runtime.ipynb)
+- Ejercicio 3: Algoritmo de Shor [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LuisAngelMendozaVelasco/escuela-de-computacion-cuantica-2023/blob/master/ejercicios/ejercicio3_shor.ipynb)
+- Ejercicio 4: Optimización [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LuisAngelMendozaVelasco/escuela-de-computacion-cuantica-2023/blob/master/ejercicios/ejercicio4_optimizacion.ipynb)
+- Ejercicio 5: Química Cuántica [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LuisAngelMendozaVelasco/escuela-de-computacion-cuantica-2023/blob/master/ejercicios/ejercicio5_quimica.ipynb)
 
 ## [Hackathon y Challenges]
 
